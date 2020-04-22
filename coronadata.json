@@ -31,7 +31,4 @@
 {"state":"Manipur","confirmed":"2","recovered":"2","deaths":"0"},
 {"state":"Tripura","confirmed":"2","recovered":"1","deaths":"0"},
 {"state":"Arunachal Pradesh","confirmed":"1","recovered":"1","deaths":"0"},
-{"state":"Mizoram","confirmed":"1","recovered":"0","deaths":"0"},
-{"state":"Dadra and Nagar Haveli and Daman and Diu","confirmed":"0","recovered":"0","deaths":"0"},
-{"state":"Nagaland","confirmed":"0","recovered":"0","deaths":"0"},
-{"state":"Sikkim","confirmed":"0","recovered":"0","deaths":"0"}]}
+{"state":"Mizoram","confirmed":"1","recovered":"0","deaths":"0"}]}
